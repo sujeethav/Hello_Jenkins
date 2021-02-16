@@ -1,4 +1,4 @@
-http://localhost:8080/job/lab7/1/badge/icon
+[![Build Status](http://localhost:8080/job/lab7/1/badge/icon)](http://localhost:8080/job/lab7/1/)
 
 ## Hello_Jenkins <img align="right" src="img/liatrio.png">
 These simple exercises are designed to introduce you to Jenkins and continuous integration. The original exercise 
